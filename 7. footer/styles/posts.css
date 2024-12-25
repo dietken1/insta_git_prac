@@ -10,7 +10,7 @@
   padding: var(--padding);
 }
 
-.posts__tab.posts__tab--selected {
+.posts__tab--selected {
   border-bottom: 1px solid white;
 }
 
