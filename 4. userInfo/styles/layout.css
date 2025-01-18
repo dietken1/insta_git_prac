@@ -9,7 +9,11 @@
   /* spacing */
   --gutter: 20px;
   --padding: 16px;
+  --padding-sm: 10px;
 
   /* fontsize */
   --heading: 1.6rem;
+  --body: 1.4rem;
+
+  --blue: #1fa1ff;
 }

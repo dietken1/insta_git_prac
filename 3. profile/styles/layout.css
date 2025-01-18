@@ -4,3 +4,11 @@
   margin: auto;
   background-color: #000;
 }
+
+:root {
+  --gutter: 20px;
+  --padding: 16px;
+
+  --heading: 2rem;
+  --body: 1.4rem;
+}

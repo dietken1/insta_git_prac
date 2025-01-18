@@ -4,3 +4,26 @@
   margin: auto;
   background-color: #000;
 }
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.header__username {
+  font-size: 1.6rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+}
+
+.header__rightButtons {
+  display: flex;
+  gap: 16px;
+}
